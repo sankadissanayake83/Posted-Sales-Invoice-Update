@@ -1,0 +1,32 @@
+{
+  "id": "70ad1745-76d9-4a1e-a885-ec087a6e3b5e",
+  "name": "Posted Sales Invoice Update",
+  "publisher": "DMSK",
+  "version": "1.0.0.1",
+  "brief": "Posted Sales Invoice Update P-10",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50120,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
